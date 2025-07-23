@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reva Pande</h1>
 <p align="center">
-  <img src="https://github.com/REVAPANDE/REVAPANDE/raw/main/ScreenRecording2025-07-23171528online-video-cutter.com-ezgif.com-video-to-gif-converter.gif" alt="Typewriter Animation" width="1000" height="200"/>
+  <img src="https://github.com/REVAPANDE/REVAPANDE/raw/main/ScreenRecording2025-07-23171528online-video-cutter.com-ezgif.com-video-to-gif-converter.gif" alt="Typewriter Animation" width="1400"/>
 </p>
 
 
