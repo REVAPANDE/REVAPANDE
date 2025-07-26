@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Reva Pande</h1>
-<p align="center">
-  <img src="https://github.com/REVAPANDE/REVAPANDE/raw/main/ScreenRecording2025-07-23171528online-video-cutter.com-ezgif.com-video-to-gif-converter.gif" alt="Typewriter Animation" width="1400"/>
-</p>
+<h1 align="center">Hi there, I'm Reva Pande 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+Expert;Node.js+%26+Express+Experienced;MongoDB+%7C+SQL+Pro;Python+%26+C%2B%2B+Programmer;Clean+Code+Advocate;Performance+Optimizer" alt="Typing SVG" />
+</div>
 
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Streamlit, and AWS**
